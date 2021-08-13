@@ -1,2 +1,4 @@
 Halo ini isi file 2
-tambah isi line2
+-bb
+-cc
+-dd
